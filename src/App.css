@@ -1,0 +1,13 @@
+.btnContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+button{
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    font-weight: 500;
+}
